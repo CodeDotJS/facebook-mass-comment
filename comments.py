@@ -11,7 +11,7 @@ print 'Please Wait!'
 def comment(url): 
     connect = httplib.HTTPSConnection("graph.facebook.com") 
     connect.request("GET",url) 
-    for x in xrange(1000):         
+    for x in xrange(1000):        # change it accordingly . 
             
             print 'commenting %d '% x
             path ='/'+'PUT FB STATUS ID HERE'+'/comments' # you have to put the digits after ?fbid before '/comments'
