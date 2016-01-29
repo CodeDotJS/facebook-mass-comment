@@ -1,12 +1,12 @@
 # facebook-mass-comment
 
-comments 'n' times on facbook posts within minutes or a second. 
+comments 'n' times on any facbook post of a person or page.
 
 -----
 
 Modules needed :
 
-- httplib
+- httplib    
 - urllib 
 - BeautifulSoup 
 - os 
