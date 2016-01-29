@@ -26,4 +26,3 @@ Modules needed :
 
 * you need to be a sudo user
 
-NOTE : Install pip or easy_install to install these packages easily.
