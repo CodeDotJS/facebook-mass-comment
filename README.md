@@ -24,5 +24,6 @@ Modules needed :
 - time            
 - | $ pip install time
 
-* you need to be a sudo user
+-----------------------------------------------------
+Note : You need to be a sudo user
 
