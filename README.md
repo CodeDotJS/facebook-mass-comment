@@ -1,4 +1,4 @@
-# facebook-mass-comment
+# facebook-mass-comment   https://travis-ci.org/CodeDotJS/facebook-mass-comment.svg?branch=master
 
 comments 'n' times on any facbook post of a person or page.
 
