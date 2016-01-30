@@ -1,7 +1,7 @@
-# facebook-mass-comment   https://travis-ci.org/CodeDotJS/facebook-mass-comment.svg?branch=master
+# facebook-mass-comment
 
 comments 'n' times on any facbook post of a person or page.
-
+<img src="https://travis-ci.org/CodeDotJS/facebook-mass-comment.svg?branch=master"></img>
 -----
 
 Modules needed :
