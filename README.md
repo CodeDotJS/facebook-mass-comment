@@ -8,17 +8,19 @@
 
 ## Modules needed :
 
-###httplib  >$ pip install httplib2
-<br>
-###urllib   >$ pip install urllib3 [ install Certifi and PyOpenSSL ]
-<br>
-> BeautifulSoup :   $ pip install bs4
-<br>
-> os   :            $ pip install os
-<br>
-> json :            $ pip install json
-<br>
-> time :            $ pip install time
+__NOTE__ : Run the follwoing commands.
+
+- pip install httplib2
+
+- pip install urllib3 [ install Certifi and PyOpenSSL ]
+
+- pip install bs4
+
+- pip install os
+
+- pip install json
+
+- pip install time
 
 
 __Note__ : BE A SUDOER
