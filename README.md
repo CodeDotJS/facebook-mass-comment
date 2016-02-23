@@ -8,9 +8,9 @@
 
 ## Modules needed :
 
-> httplib : $ pip install httplib2
+###httplib  >$ pip install httplib2
 <br>
-> urllib  : $ pip install urllib3 [ install Certifi and PyOpenSSL ]
+###urllib   >$ pip install urllib3 [ install Certifi and PyOpenSSL ]
 <br>
 > BeautifulSoup :   $ pip install bs4
 <br>
