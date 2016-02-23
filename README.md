@@ -1,29 +1,25 @@
 # facebook-mass-comment
 
-comments 'n' times on any facbook post of a person or page.
-<img src="https://travis-ci.org/CodeDotJS/facebook-mass-comment.svg?branch=master"></img>
------
+> comments 'n' times on any facbook post of a person or page.
 
-Modules needed :
+## Running 
 
-- httplib         
-- | $ pip install httplib2
+> python facebook.py
 
-- urllib          
-- | $ pip install urllib3 [ install Certifi and PyOpenSSL ]
+## Modules needed :
 
-- BeautifulSoup   
-- | $ pip install bs4
+> httplib          $ pip install httplib2
 
-- os              
-- | $ pip install os
+> urllib           $ pip install urllib3 [ install Certifi and PyOpenSSL ]
 
-- json            
-- | $ pip install json
+> BeautifulSoup    $ pip install bs4
 
-- time            
-- | $ pip install time
+> os               $ pip install os
 
------------------------------------------------------
-Note : You need to be a sudo user
+> json             $ pip install json
+
+> time             $ pip install time
+
+
+__Note__ : BE A SUDOER
 
