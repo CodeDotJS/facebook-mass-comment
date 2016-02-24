@@ -22,10 +22,18 @@ Replace '10' with any number to comment that much time on a post.
 ```
 ## Message
 ```py
-      param_data={  '   format':'json', 
-                        'message':'<3', # change message from here
-                        'access_token':access_token 
-                  } 
+      param_data = {  '   format':'json', 
+                         'message':'<3', # change message from here
+                         'access_token':access_token 
+                   } 
+```
+## Post ID
+```py
+      path ='/'+'PUT FB STATUS ID HERE'+'/comments'
+      
+      url='/PUT FB STATUS ID HERE'
+
+You have to replace __PUT FB STATUS ID HERE__ with the actual ID of a facebook post.
 ```
 ## Installation
 
