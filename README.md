@@ -9,15 +9,15 @@
 ## Modules needed :
 
 ### httplib2
-> - sudo pip install httplib2
+>   - sudo pip install httplib2
 
 ### urllib3
->- pip install urllib3 [ install Certifi and PyOpenSSL ]
+>   - pip install urllib3 [ install Certifi and PyOpenSSL ]
 
 ### bs4
->- pip install bs4
+>   - pip install bs4
 
 ### json
-- pip install json
+>   - pip install json
 
 
