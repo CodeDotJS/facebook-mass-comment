@@ -2,6 +2,15 @@
 
 > comments 'n' times on any facbook post of a person or page.
 
+# Running
+
+> python comments.py
+
+# Usage
+
+```py
+      access_token='Paste your access token here' 
+```
 ## Installation
 
 > sudo apt-get install python-pip
