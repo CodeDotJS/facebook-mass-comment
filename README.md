@@ -17,13 +17,7 @@
 ### bs4
 >- pip install bs4
 
-### os
-- pip install os
-
-### json __pre insatlled__
+### json
 - pip install json
-
-### time __pre installed__
-- pip install time
 
 
