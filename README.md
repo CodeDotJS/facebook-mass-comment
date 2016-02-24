@@ -37,9 +37,9 @@ You have to replace __PUT FB STATUS ID HERE__ with the actual ID of a facebook p
 ```
 ## Full Tutorial
 
-      [Mass Commeting on Facebook Post](https://rishicodes.wordpress.com/2015/10/15/mass-commenting-on-facebook-posts)
-      
-## Installation
+[Mass Commenting on Facebook Post](https://rishicodes.wordpress.com/2015/10/15/mass-commenting-on-facebook-posts)
+ 
+# Installation
 
 > sudo apt-get install python-pip
 
@@ -58,3 +58,6 @@ You have to replace __PUT FB STATUS ID HERE__ with the actual ID of a facebook p
 >   - pip install json
 
 
+## License
+
+MIT © [Rishi Giri](http://rishigiri.com)
