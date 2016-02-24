@@ -36,7 +36,8 @@ Replace '10' with any number to comment that much time on a post.
 You have to replace __PUT FB STATUS ID HERE__ with the actual ID of a facebook post.
 ```
 ## Full Tutorial
-      (Mass Commeting on Facebook Post)[https://rishicodes.wordpress.com/2015/10/15/mass-commenting-on-facebook-posts]
+
+      [Mass Commeting on Facebook Post](https://rishicodes.wordpress.com/2015/10/15/mass-commenting-on-facebook-posts)
       
 ## Installation
 
