@@ -7,7 +7,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/rishigiridotcom/rishigiri.com/gh-pages/github/comment.png"></img>
 </h1>
-<h2 align="center">[Post](https://www.facebook.com/rishi.giri.90/posts/742132415898894)</h2>
+[Post](https://www.facebook.com/rishi.giri.90/posts/742132415898894)
 
 # Running
 
