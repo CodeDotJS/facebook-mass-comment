@@ -2,6 +2,13 @@
 
 > comments 'n' times on any facbook post of a person or page.
 
+## Proof 
+
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/rishigiridotcom/rishigiri.com/gh-pages/github/gravatar.png"></img>
+</h1>
+<center>[Post](https://www.facebook.com/rishi.giri.90/posts/742132415898894)</center>
+
 # Running
 
 > python comments.py
