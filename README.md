@@ -57,20 +57,19 @@ You can randomly generate time to save yourself from getting blocked.
 
 > sudo apt-get install python-pip
 
-## Modules needed :
+### Modules needed :
 
-### httplib2
->   - sudo pip install httplib2
+- __httplib2__
+>   sudo pip install httplib2
 
-### urllib3
->   - pip install urllib3 [ install Certifi and PyOpenSSL ]
+- __urllib3__
+>   sudo pip install urllib3 [ install Certifi and PyOpenSSL ]
 
-### bs4
->   - pip install bs4
+- __bs4__
+>   sudo pip install bs4
 
-### json
->   - pip install json
-
+- __json__
+>   sudo pip install json
 
 ## License
 
